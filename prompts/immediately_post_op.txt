@@ -1,0 +1,11 @@
+Using the uploaded image as the sole reference, realistically modify the subject's appearance to show the results immediately following a successful hair transplant surgery.
+
+The balding areas on the top and crown of the head should be covered with tiny, newly implanted hair grafts, appearing as small, red dots or scabs. The skin in this area should be red and swollen. The new hairline should be clearly defined by these grafts. The existing hair on the sides and back should be unchanged.
+
+Crucial constraints:
+
+Maintain perfect likeness and identity of the man's face.
+
+Do not alter the lighting, background, clothing, or the original framing of the photo.
+
+Do not zoom out or add any body parts not present in the original image. The composition must remain exactly the same.
