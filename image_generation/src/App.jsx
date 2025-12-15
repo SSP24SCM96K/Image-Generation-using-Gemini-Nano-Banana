@@ -197,7 +197,7 @@ Add dense, natural-looking hair to the balding areas on the top and crown of the
                 <button
                   style={styles.secondaryBtn}
                   onClick={() =>
-                    downloadBase64Image(generatedImage, "hairstyle.png")
+                    downloadBase64Image(generatedImage, "image.png")
                   }
                 >
                   Download
