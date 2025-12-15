@@ -123,9 +123,9 @@ Add dense, natural-looking hair to the balding areas on the top and crown of the
     <div style={styles.page}>
       <div style={styles.container}>
         <header style={styles.header}>
-          <h1 style={styles.title}>Hairstyle Generator</h1>
+          <h1 style={styles.title}>AI Image Generator tool</h1>
           <p style={styles.subtitle}>
-            Upload a photo, describe the hairstyle, and generate a realistic result.
+            Upload a photo, describe the image, and generate a realistic result.
           </p>
         </header>
 
